@@ -1,4 +1,6 @@
 # La fuente Blanca Rally
+> Description: Fast paced rally stage set around the dam and the windmill farm.
+
 > **Length:** *4.1 km*
  
 > **Road Composition:**
