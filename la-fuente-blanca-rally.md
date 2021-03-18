@@ -8,7 +8,7 @@
 *2% Asphalt*
 ---
 > **Preview:**
-![](https://prod.cloud.rockstargames.com/ugc/gta5mission/3175/eakK97JuCECKsFZJoErKbA/2_0.jpg)
+![la-fuente-blanca-rally.jpg](previews/la-fuente-blanca-rally.jpg)
 
 ---
 > **Pace Notes:** 
