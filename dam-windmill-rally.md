@@ -1,6 +1,8 @@
 
 # Dam-Windmill Rally
 
+> **Link:** [Dam-Windmill Rally](https://socialclub.rockstargames.com/job/gtav/wfscmxwKxUuDTrcO0xv_0Q)
+
 > **Description:** 
 > *Fast paced rally stage set around the dam and the windmill farm.*
 
@@ -11,12 +13,13 @@
 > *5% Asphalt*
 ---
 > **Preview:**
-> 
-> ![dam-windmill-rally.jpg](previews/dam-windmill-rally.jpg)
+
+![dam-windmill-rally.jpg](previews/dam-windmill-rally.jpg)
 
 ---
 
-> **Pace Notes:**
+
+**Pace Notes:**
 
 		Right	5
 		Left 	4

@@ -1,5 +1,8 @@
 # La fuente Blanca Rally
-> Description: Fast paced rally stage set around the dam and the windmill farm.
+
+> **Link:** [La Fuente Blanca Rally](https://socialclub.rockstargames.com/job/gtav/eakK97JuCECKsFZJoErKbA)
+
+> **Description:** Fast paced rally stage set around the dam and the windmill farm.
 
 > **Length:** *4.1 km*
  
@@ -10,11 +13,11 @@
 *2% Asphalt*
 ---
 > **Preview:**
-
+> 
 ![la-fuente-blanca-rally.jpg](previews/la-fuente-blanca-rally.jpg)
 
 ---
-> **Pace Notes:** 
+**Pace Notes:** 
 
 		Right 	3	Long
 	into	Left 	5	Bumps
